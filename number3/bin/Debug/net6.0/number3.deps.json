@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "number3/1.0.0": {
+        "dependencies": {
+          "Figure": "1.0.0"
+        },
+        "runtime": {
+          "number3.dll": {}
+        }
+      },
+      "Figure/1.0.0": {
+        "dependencies": {
+          "Point": "1.0.0"
+        },
+        "runtime": {
+          "Figure.dll": {}
+        }
+      },
+      "Point/1.0.0": {
+        "runtime": {
+          "Point.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "number3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Figure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Point/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

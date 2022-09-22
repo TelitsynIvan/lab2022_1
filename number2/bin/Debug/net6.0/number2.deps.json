@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "number2/1.0.0": {
+        "dependencies": {
+          "MyRectangle": "1.0.0"
+        },
+        "runtime": {
+          "number2.dll": {}
+        }
+      },
+      "MyRectangle/1.0.0": {
+        "runtime": {
+          "MyRectangle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "number2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyRectangle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

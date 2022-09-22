@@ -1,0 +1,12 @@
+/Users/marmelad/RiderProjects/lab01/Point/bin/Debug/net6.0/Point.deps.json
+/Users/marmelad/RiderProjects/lab01/Point/bin/Debug/net6.0/Point.dll
+/Users/marmelad/RiderProjects/lab01/Point/bin/Debug/net6.0/Point.pdb
+/Users/marmelad/RiderProjects/lab01/Point/obj/Debug/net6.0/Point.csproj.AssemblyReference.cache
+/Users/marmelad/RiderProjects/lab01/Point/obj/Debug/net6.0/Point.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marmelad/RiderProjects/lab01/Point/obj/Debug/net6.0/Point.AssemblyInfoInputs.cache
+/Users/marmelad/RiderProjects/lab01/Point/obj/Debug/net6.0/Point.AssemblyInfo.cs
+/Users/marmelad/RiderProjects/lab01/Point/obj/Debug/net6.0/Point.csproj.CoreCompileInputs.cache
+/Users/marmelad/RiderProjects/lab01/Point/obj/Debug/net6.0/Point.dll
+/Users/marmelad/RiderProjects/lab01/Point/obj/Debug/net6.0/refint/Point.dll
+/Users/marmelad/RiderProjects/lab01/Point/obj/Debug/net6.0/Point.pdb
+/Users/marmelad/RiderProjects/lab01/Point/obj/Debug/net6.0/ref/Point.dll

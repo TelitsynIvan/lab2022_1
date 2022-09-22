@@ -1,0 +1,12 @@
+/Users/marmelad/RiderProjects/lab01/MyRectangle/bin/Debug/net6.0/MyRectangle.deps.json
+/Users/marmelad/RiderProjects/lab01/MyRectangle/bin/Debug/net6.0/MyRectangle.dll
+/Users/marmelad/RiderProjects/lab01/MyRectangle/bin/Debug/net6.0/MyRectangle.pdb
+/Users/marmelad/RiderProjects/lab01/MyRectangle/obj/Debug/net6.0/MyRectangle.csproj.AssemblyReference.cache
+/Users/marmelad/RiderProjects/lab01/MyRectangle/obj/Debug/net6.0/MyRectangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marmelad/RiderProjects/lab01/MyRectangle/obj/Debug/net6.0/MyRectangle.AssemblyInfoInputs.cache
+/Users/marmelad/RiderProjects/lab01/MyRectangle/obj/Debug/net6.0/MyRectangle.AssemblyInfo.cs
+/Users/marmelad/RiderProjects/lab01/MyRectangle/obj/Debug/net6.0/MyRectangle.csproj.CoreCompileInputs.cache
+/Users/marmelad/RiderProjects/lab01/MyRectangle/obj/Debug/net6.0/MyRectangle.dll
+/Users/marmelad/RiderProjects/lab01/MyRectangle/obj/Debug/net6.0/refint/MyRectangle.dll
+/Users/marmelad/RiderProjects/lab01/MyRectangle/obj/Debug/net6.0/MyRectangle.pdb
+/Users/marmelad/RiderProjects/lab01/MyRectangle/obj/Debug/net6.0/ref/MyRectangle.dll
