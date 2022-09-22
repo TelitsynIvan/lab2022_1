@@ -10,7 +10,6 @@ class Program
         Point.Point three = new(14, 14);
         Point.Point four = new(23, 56);
         Figure.Figure test = new(one, two, three, four);
-        test.Name = "pupa";
-        Console.WriteLine(test.PerimeterCalculator());
+        Console.WriteLine($"{test.PerimeterCalculator()} {test.Name}");
     }
 }

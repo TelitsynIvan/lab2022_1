@@ -11,16 +11,19 @@ public class Figure
         arr.Add(a);
         arr.Add(b);
         arr.Add(c);
+        Name = "triangle";
     }
 
     public Figure(Point a, Point b, Point c, Point d) :this(a, b, c)
     {
         arr.Add(d);
+        Name = "square";
     }
     
         public Figure(Point a, Point b, Point c, Point d, Point e) :this(a, b, c, d)
     {
         arr.Add(e);
+        Name = "pentagon";
     }
 
     public string? Name { get; set; }
