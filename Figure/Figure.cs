@@ -12,19 +12,14 @@ public class Figure
         arr.Add(b);
         arr.Add(c);
     }
-    public Figure(Point a, Point b, Point c, Point d)
+
+    public Figure(Point a, Point b, Point c, Point d) :this(a, b, c)
     {
-        arr.Add(a);
-        arr.Add(b);
-        arr.Add(c);
         arr.Add(d);
     }
-    public Figure(Point a, Point b, Point c, Point d, Point e)
+    
+        public Figure(Point a, Point b, Point c, Point d, Point e) :this(a, b, c, d)
     {
-        arr.Add(a);
-        arr.Add(b);
-        arr.Add(c);
-        arr.Add(d);
         arr.Add(e);
     }
 
